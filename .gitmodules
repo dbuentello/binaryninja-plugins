@@ -25,3 +25,12 @@
 [submodule "plugins/community/liil"]
 	path = plugins/community/liil
 	url = https://github.com/ColdHeat/liil
+[submodule "plugins/community/binja_smali"]
+	path = plugins/community/binja_smali
+	url = https://github.com/lucasduffey/binja_smali
+[submodule "plugins/community/binoculars"]
+	path = plugins/community/binoculars
+	url = https://github.com/rick2600/binoculars
+[submodule "plugins/community/easypatch"]
+	path = plugins/community/easypatch
+	url = https://github.com/walterschell/easypatch
