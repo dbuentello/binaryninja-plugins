@@ -31,3 +31,6 @@
 [submodule "plugins/community/easypatch"]
 	path = plugins/community/easypatch
 	url = https://github.com/walterschell/easypatch
+[submodule "plugins/community/binaryninja-spu"]
+	path = plugins/community/binaryninja-spu
+	url = https://github.com/bambu/binaryninja-spu/
