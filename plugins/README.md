@@ -22,6 +22,5 @@
 |[LLIL](https://github.com/ColdHeat/liil)|[Kevin Chung](https://github.com/ColdHeat)|[MIT](community/liil/LICENSE)|Linear IL view for Binary Ninja|
 |[List Comments](https://github.com/rick2600/list_comments)|[rick2600](https://github.com/rick2600)|[MIT](community/list_comments/LICENSE)|List all comments.|
 |[x64dbgbinja](https://github.com/x64dbg/x64dbgbinja)|[x64dbg](https://github.com/x64dbg)|[MIT](community/x64dbgbinja/LICENSE)|Official x64dbg plugin for Binary Ninja.|
-|[Xref Call Finder](https://github.com/rick2600/xref_call_finder)|[rick2600](https://github.com/rick2600)|[MIT](community/xref_call_finder/LICENSE)|Print call chains to a target function|
 
 
