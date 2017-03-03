@@ -1,9 +1,6 @@
 [submodule "plugins/community/binjatron"]
 	path = plugins/community/binjatron
 	url = https://github.com/snare/binjatron
-[submodule "plugins/community/binaryninja-msp430"]
-	path = plugins/community/binaryninja-msp430
-	url = https://github.com/joshwatson/binaryninja-msp430.git
 [submodule "plugins/community/binaryninja-bookmarks"]
 	path = plugins/community/binaryninja-bookmarks
 	url = https://github.com/joshwatson/binaryninja-bookmarks.git
@@ -16,9 +13,6 @@
 [submodule "plugins/community/x64dbgbinja"]
 	path = plugins/community/x64dbgbinja
 	url = https://github.com/x64dbg/x64dbgbinja
-[submodule "plugins/community/list_comments"]
-	path = plugins/community/list_comments
-	url = https://github.com/rick2600/list_comments
 [submodule "plugins/community/liil"]
 	path = plugins/community/liil
 	url = https://github.com/ColdHeat/liil
@@ -34,3 +28,9 @@
 [submodule "plugins/community/binaryninja-spu"]
 	path = plugins/community/binaryninja-spu
 	url = https://github.com/bambu/binaryninja-spu/
+[submodule "plugins/community/binaryninja-msp430"]
+	path = plugins/community/binaryninja-msp430
+	url = https://github.com/joshwatson/binaryninja-msp430
+[submodule "plugins/community/binaryninja-microcorruption"]
+	path = plugins/community/binaryninja-microcorruption
+	url = https://github.com/joshwatson/binaryninja-microcorruption
