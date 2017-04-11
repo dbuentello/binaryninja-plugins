@@ -23,10 +23,7 @@ To install plugins, you can either clone this repository, or clone the specific 
  1. Create a new repository (Optionally, just copy it from the [sample plugin](plugins/official/sample_plugin/))
  1. Fill out a [`plugin.json`](/plugins/official/sample_plugin/plugin.json)
  1. (Optional) Run `generate-readme.md` to update your readme and license 
- 1. Fork this repository
- 1. Add your plugin as a submodule: `git submodule add https://github.com/YourName/YourPlugin plugins/community/YourPlugin`
- 1. Regenerate the plugin directory with `generate-index.py`
- 1. Commit and issue a [pull request](/Vector35/binaryninja-plugins/pull/new/master)
+ 1. File an [issue]((/Vector35/binaryninja-plugins/issue) with a link to your repo, or issue a [pull request](/Vector35/binaryninja-plugins/pull/new/master)
  
 #### Required Fields
 
@@ -43,4 +40,4 @@ All other fields are optional.
 
 ## License
 
-Note that content contained in the root of this repository itself is Copyright 2016, Vector 35 LLC and [available](LICENSE) under an MIT license, but that each individual plugin may be released under a different license.
+Note that content contained in the root of this repository itself is Copyright 2016, Vector 35 LLC and [available](LICENSE) under an MIT license, but each individual plugin may be released under a different license.
